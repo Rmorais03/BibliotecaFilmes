@@ -1,0 +1,56 @@
+1; Oppenheimer; 2023; 180; Biografia,Drama,Historia; 1
+2; Dunkirk; 2017; 106; Acao,Drama,Historia; 1
+3; Interstellar; 2014; 169; Aventura,Drama,Ficcao Cientifica; 1
+4; The Imitation Game; 2014; 113; Biografia,Drama,Thriller; 2
+5; The Theory of Everything; 2014; 123; Biografia,Drama,Romance; 3
+6; A Beautiful Mind; 2001; 135; Biografia,Drama; 4
+7; Apollo 13; 1995; 140; Aventura,Drama,Historia; 4
+8; Schindler's List; 1993; 195; Biografia,Drama,Historia; 5
+9; Lincoln; 2012; 150; Biografia,Drama,Historia; 5
+10; The Post; 2017; 116; Biografia,Drama,Historia; 5
+11; The Social Network; 2010; 120; Biografia,Drama; 6
+12; Steve Jobs; 2015; 122; Biografia,Drama; 6
+13; Catch Me If You Can; 2002; 141; Biografia,Crime,Drama; 5
+14; The Big Short; 2015; 130; Biografia,Comedia,Drama; 7
+15; Vice; 2018; 132; Biografia,Comedia,Drama; 7
+16; Don't Look Up; 2021; 138; Comedia,Drama,Ficcao Cientifica; 7
+17; American Sniper; 2014; 133; Acao,Biografia,Drama; 8
+18; Sully; 2016; 96; Biografia,Drama; 8
+19; Bohemian Rhapsody; 2018; 134; Biografia,Drama,Musica; 9
+20; Rocketman; 2019; 121; Biografia,Drama,Musica; 10
+21; La La Land; 2016; 128; Comedia,Drama,Musica; 9
+22; Whiplash; 2014; 107; Drama,Musica; 7
+23; Parasite; 2019; 132; Comedia,Drama,Thriller; 5
+24; Snowpiercer; 2013; 126; Acao,Drama,Ficcao Cientifica; 4
+25; Roma; 2018; 135; Drama; 7
+26; Gravity; 2013; 91; Drama,Ficcao Cientifica,Thriller; 6
+27; Lady Bird; 2017; 94; Comedia,Drama; 4
+28; Barbie; 2023; 114; Aventura,Comedia,Fantasia; 3
+29; Arrival; 2016; 116; Drama,Ficcao Cientifica; 1
+30; Blade Runner 2049; 2017; 164; Acao,Drama,Ficcao Cientifica; 2
+31; Black Swan; 2010; 108; Drama,Thriller; 11
+32; Requiem for a Dream; 2000; 102; Drama; 11
+33; Hereditary; 2018; 127; Drama,Horror,Misterio; 12
+34; The Father; 2020; 97; Drama; 13
+35; Nomadland; 2020; 107; Drama; 14
+36; Moonlight; 2016; 111; Drama; 15
+37; Spotlight; 2015; 129; Biografia,Crime,Drama; 16
+38; Boyhood; 2014; 165; Drama; 17
+39; The Florida Project; 2017; 111; Drama; 18
+40; Drive; 2011; 100; Acao,Drama,Crime; 19
+41; Melancholia; 2011; 136; Drama,Ficcao Cientifica; 20
+42; Blue Valentine; 2010; 112; Drama,Romance; 21
+43; The Farewell; 2019; 100; Comedia,Drama; 22
+44; Marriage Story; 2019; 137; Drama; 23
+45; Lost in Translation; 2003; 102; Drama,Romance; 24
+46; Minari; 2020; 115; Drama; 25
+47; Shoplifters; 2018; 121; Crime,Drama; 26
+48; Ida; 2013; 82; Drama; 27
+49; Cold War; 2018; 88; Drama,Romance,Musica; 27
+50; Another Round; 2020; 117; Comedia,Drama; 28
+51; Burning; 2018; 148; Drama,Misterio; 29
+52; Decision to Leave; 2022; 139; Crime,Drama,Misterio; 29
+53; Train to Busan; 2016; 118; Acao,Terror,Thriller; 30
+54; Crouching Tiger, Hidden Dragon; 2000; 120; Acao,Aventura,Fantasia; 31
+55; Hero; 2010; 107; Terror,Musica,Desporto; 31
+56; The Grandmaster; 2013; 130; Acao,Biografia,Drama; 31

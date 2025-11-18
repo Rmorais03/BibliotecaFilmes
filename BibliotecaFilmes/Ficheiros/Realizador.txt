@@ -1,0 +1,31 @@
+1; Christopher Nolan; Reino Unido
+2; Morten Tyldum; Noruega
+3; James Marsh; Reino Unido
+4; Ron Howard; Estados Unidos
+5; Steven Spielberg; Estados Unidos
+6; David Fincher; Estados Unidos
+7; Adam McKay; Estados Unidos
+8; Clint Eastwood; Estados Unidos
+9; Bryan Singer; Estados Unidos
+10; Dexter Fletcher; Reino Unido
+11; Darren Aronofsky; Estados Unidos
+12; Ari Aster; Estados Unidos
+13; Florian Zeller; Franca
+14; Chloe Zhao; China
+15; Barry Jenkins; Estados Unidos
+16; Tom McCarthy; Estados Unidos
+17; Richard Linklater; Estados Unidos
+18; Sean Baker; Estados Unidos
+19; Nicolas Winding Refn; Dinamarca
+20; Lars von Trier; Dinamarca
+21; Derek Cianfrance; Estados Unidos
+22; Lulu Wang; China
+23; Noah Baumbach; Estados Unidos
+24; Sofia Coppola; Estados Unidos
+25; Lee Isaac Chung; Estados Unidos
+26; Hirokazu Koreeda; Japao
+27; Pawel Pawlikowski; Polonia
+28; Thomas Vinterberg; Dinamarca
+29; Lee Chang-dong; Coreia do Sul
+30; Yeon Sang ho; Coreia do Sul
+31; Wong Kar wai; China

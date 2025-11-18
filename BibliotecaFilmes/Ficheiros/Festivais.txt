@@ -1,0 +1,15 @@
+1; Festival Internacional de Cinema de Lisboa; Lisboa; 10/02/2025 00:00:00; 20/02/2025 00:00:00; Oppenheimer,Interstellar,The Social Network
+2; Berlinale – Festival Internacional de Cinema; Berlim; 15/02/2025 00:00:00; 25/02/2025 00:00:00; The Imitation Game,Dunkirk,The Theory of Everything
+3; Festival de Cinema de Veneza; Veneza; 28/08/2025 00:00:00; 07/09/2025 00:00:00; The Big Short,Vice,Don't Look Up
+4; Festival de Cannes; Cannes; 14/05/2025 00:00:00; 24/05/2025 00:00:00; Schindler's List,Lincoln,Catch Me If You Can
+5; Sundance Film Festival; Park City; 18/01/2025 00:00:00; 28/01/2025 00:00:00; A Beautiful Mind,Apollo 13,Rocketman
+6; Festival Internacional de Cinema do Porto (Fantasporto); Porto; 24/02/2025 00:00:00; 04/03/2025 00:00:00; Black Swan,Requiem for a Dream,Hereditary
+7; Festival de Cinema de San Sebastián; San Sebastián; 20/09/2025 00:00:00; 28/09/2025 00:00:00; The Father,Nomadland,Parasite
+8; Festival Internacional de Cinema de Toronto (TIFF); Toronto; 05/09/2025 00:00:00; 15/09/2025 00:00:00; La La Land,Moonlight,Spotlight
+9; Festival de Cinema de Locarno; Locarno; 06/08/2025 00:00:00; 16/08/2025 00:00:00; Boyhood,Roma,The Florida Project
+10; Festival Internacional de Cinema de Roterdão; Roterdão; 22/01/2025 00:00:00; 02/02/2025 00:00:00; Drive,Melancholia,Blue Valentine
+11; Festival de Cinema de Tribeca; Nova Iorque; 16/04/2025 00:00:00; 27/04/2025 00:00:00; The Farewell,Marriage Story,Whiplash
+12; Festival de Cinema de Tóquio; Tóquio; 24/10/2025 00:00:00; 02/11/2025 00:00:00; Lost in Translation,Minari,Shoplifters
+13; Festival Internacional de Cinema de Karlovy Vary; Karlovy Vary; 04/07/2025 00:00:00; 12/07/2025 00:00:00; Ida,Cold War,Another Round
+14; Festival Internacional de Cinema de Busan; Busan; 03/10/2025 00:00:00; 12/10/2025 00:00:00; Burning,Decision to Leave,Train to Busan
+15; Festival Internacional de Cinema de Xangai; Toquio; 08/06/2025 00:00:00; 16/06/2025 00:00:00; Hero,Ida,Drive

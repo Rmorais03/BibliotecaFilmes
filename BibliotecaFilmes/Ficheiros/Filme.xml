@@ -1,0 +1,282 @@
+<ListaFilmes>
+<Filme>
+<Nome>Oppenheimer</Nome>
+<Ano>2023</Ano>
+<Duração>180</Duração>
+</Filme>
+<Filme>
+<Nome>Dunkirk</Nome>
+<Ano>2017</Ano>
+<Duração>106</Duração>
+</Filme>
+<Filme>
+<Nome>Interstellar</Nome>
+<Ano>2014</Ano>
+<Duração>169</Duração>
+</Filme>
+<Filme>
+<Nome>The Imitation Game</Nome>
+<Ano>2014</Ano>
+<Duração>113</Duração>
+</Filme>
+<Filme>
+<Nome>The Theory of Everything</Nome>
+<Ano>2014</Ano>
+<Duração>123</Duração>
+</Filme>
+<Filme>
+<Nome>A Beautiful Mind</Nome>
+<Ano>2001</Ano>
+<Duração>135</Duração>
+</Filme>
+<Filme>
+<Nome>Apollo 13</Nome>
+<Ano>1995</Ano>
+<Duração>140</Duração>
+</Filme>
+<Filme>
+<Nome>Schindler's List</Nome>
+<Ano>1993</Ano>
+<Duração>195</Duração>
+</Filme>
+<Filme>
+<Nome>Lincoln</Nome>
+<Ano>2012</Ano>
+<Duração>150</Duração>
+</Filme>
+<Filme>
+<Nome>The Post</Nome>
+<Ano>2017</Ano>
+<Duração>116</Duração>
+</Filme>
+<Filme>
+<Nome>The Social Network</Nome>
+<Ano>2010</Ano>
+<Duração>120</Duração>
+</Filme>
+<Filme>
+<Nome>Steve Jobs</Nome>
+<Ano>2015</Ano>
+<Duração>122</Duração>
+</Filme>
+<Filme>
+<Nome>Catch Me If You Can</Nome>
+<Ano>2002</Ano>
+<Duração>141</Duração>
+</Filme>
+<Filme>
+<Nome>The Big Short</Nome>
+<Ano>2015</Ano>
+<Duração>130</Duração>
+</Filme>
+<Filme>
+<Nome>Vice</Nome>
+<Ano>2018</Ano>
+<Duração>132</Duração>
+</Filme>
+<Filme>
+<Nome>Don't Look Up</Nome>
+<Ano>2021</Ano>
+<Duração>138</Duração>
+</Filme>
+<Filme>
+<Nome>American Sniper</Nome>
+<Ano>2014</Ano>
+<Duração>133</Duração>
+</Filme>
+<Filme>
+<Nome>Sully</Nome>
+<Ano>2016</Ano>
+<Duração>96</Duração>
+</Filme>
+<Filme>
+<Nome>Bohemian Rhapsody</Nome>
+<Ano>2018</Ano>
+<Duração>134</Duração>
+</Filme>
+<Filme>
+<Nome>Rocketman</Nome>
+<Ano>2019</Ano>
+<Duração>121</Duração>
+</Filme>
+<Filme>
+<Nome>La La Land</Nome>
+<Ano>2016</Ano>
+<Duração>128</Duração>
+</Filme>
+<Filme>
+<Nome>Whiplash</Nome>
+<Ano>2014</Ano>
+<Duração>107</Duração>
+</Filme>
+<Filme>
+<Nome>Parasite</Nome>
+<Ano>2019</Ano>
+<Duração>132</Duração>
+</Filme>
+<Filme>
+<Nome>Snowpiercer</Nome>
+<Ano>2013</Ano>
+<Duração>126</Duração>
+</Filme>
+<Filme>
+<Nome>Roma</Nome>
+<Ano>2018</Ano>
+<Duração>135</Duração>
+</Filme>
+<Filme>
+<Nome>Gravity</Nome>
+<Ano>2013</Ano>
+<Duração>91</Duração>
+</Filme>
+<Filme>
+<Nome>Lady Bird</Nome>
+<Ano>2017</Ano>
+<Duração>94</Duração>
+</Filme>
+<Filme>
+<Nome>Barbie</Nome>
+<Ano>2023</Ano>
+<Duração>114</Duração>
+</Filme>
+<Filme>
+<Nome>Arrival</Nome>
+<Ano>2016</Ano>
+<Duração>116</Duração>
+</Filme>
+<Filme>
+<Nome>Blade Runner 2049</Nome>
+<Ano>2017</Ano>
+<Duração>164</Duração>
+</Filme>
+<Filme>
+<Nome>Black Swan</Nome>
+<Ano>2010</Ano>
+<Duração>108</Duração>
+</Filme>
+<Filme>
+<Nome>Requiem for a Dream</Nome>
+<Ano>2000</Ano>
+<Duração>102</Duração>
+</Filme>
+<Filme>
+<Nome>Hereditary</Nome>
+<Ano>2018</Ano>
+<Duração>127</Duração>
+</Filme>
+<Filme>
+<Nome>The Father</Nome>
+<Ano>2020</Ano>
+<Duração>97</Duração>
+</Filme>
+<Filme>
+<Nome>Nomadland</Nome>
+<Ano>2020</Ano>
+<Duração>107</Duração>
+</Filme>
+<Filme>
+<Nome>Moonlight</Nome>
+<Ano>2016</Ano>
+<Duração>111</Duração>
+</Filme>
+<Filme>
+<Nome>Spotlight</Nome>
+<Ano>2015</Ano>
+<Duração>129</Duração>
+</Filme>
+<Filme>
+<Nome>Boyhood</Nome>
+<Ano>2014</Ano>
+<Duração>165</Duração>
+</Filme>
+<Filme>
+<Nome>The Florida Project</Nome>
+<Ano>2017</Ano>
+<Duração>111</Duração>
+</Filme>
+<Filme>
+<Nome>Drive</Nome>
+<Ano>2011</Ano>
+<Duração>100</Duração>
+</Filme>
+<Filme>
+<Nome>Melancholia</Nome>
+<Ano>2011</Ano>
+<Duração>136</Duração>
+</Filme>
+<Filme>
+<Nome>Blue Valentine</Nome>
+<Ano>2010</Ano>
+<Duração>112</Duração>
+</Filme>
+<Filme>
+<Nome>The Farewell</Nome>
+<Ano>2019</Ano>
+<Duração>100</Duração>
+</Filme>
+<Filme>
+<Nome>Marriage Story</Nome>
+<Ano>2019</Ano>
+<Duração>137</Duração>
+</Filme>
+<Filme>
+<Nome>Lost in Translation</Nome>
+<Ano>2003</Ano>
+<Duração>102</Duração>
+</Filme>
+<Filme>
+<Nome>Minari</Nome>
+<Ano>2020</Ano>
+<Duração>115</Duração>
+</Filme>
+<Filme>
+<Nome>Shoplifters</Nome>
+<Ano>2018</Ano>
+<Duração>121</Duração>
+</Filme>
+<Filme>
+<Nome>Ida</Nome>
+<Ano>2013</Ano>
+<Duração>82</Duração>
+</Filme>
+<Filme>
+<Nome>Cold War</Nome>
+<Ano>2018</Ano>
+<Duração>88</Duração>
+</Filme>
+<Filme>
+<Nome>Another Round</Nome>
+<Ano>2020</Ano>
+<Duração>117</Duração>
+</Filme>
+<Filme>
+<Nome>Burning</Nome>
+<Ano>2018</Ano>
+<Duração>148</Duração>
+</Filme>
+<Filme>
+<Nome>Decision to Leave</Nome>
+<Ano>2022</Ano>
+<Duração>139</Duração>
+</Filme>
+<Filme>
+<Nome>Train to Busan</Nome>
+<Ano>2016</Ano>
+<Duração>118</Duração>
+</Filme>
+<Filme>
+<Nome>Crouching Tiger, Hidden Dragon</Nome>
+<Ano>2000</Ano>
+<Duração>120</Duração>
+</Filme>
+<Filme>
+<Nome>Hero</Nome>
+<Ano>2010</Ano>
+<Duração>107</Duração>
+</Filme>
+<Filme>
+<Nome>The Grandmaster</Nome>
+<Ano>2013</Ano>
+<Duração>130</Duração>
+</Filme>
+</ListaFilmes>

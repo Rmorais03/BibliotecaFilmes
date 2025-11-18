@@ -1,0 +1,20 @@
+Acao
+Animacao
+Aventura
+Biografia
+Comedia
+Crime
+Desporto
+Documentario
+Drama
+Fantasia
+Familia
+Faroeste
+Ficcao Cientifica
+Guerra
+Historia
+Misterio
+Musica
+Romance
+Terror
+Thriller
