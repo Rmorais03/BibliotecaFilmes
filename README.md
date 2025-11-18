@@ -1,7 +1,7 @@
 # C# Console Application - University Project
 
 ## Overview
-This is a C# console application developed as part of a course assignment at **ESTGV** (School of Technology and Management of Viseu), during my **first year of the TDM (Technologies of Multimedia) Bachelor's degree**. The project was implemented entirely by myself and serves as an example of my programming skills and understanding of C# fundamentals.
+This is a C# console application developed as part of a course assignment at **ESTGV** (Escola Superior de Tecnologias de Viseu), during my **first year of the "Tecnologias, Design e Muldimédia" Bachelor's degree**. The project was implemented entirely by myself and serves as an example of my programming skills and understanding of C# fundamentals.
 
 ## Features
 - Console-based user interface for simplicity and clarity.
